@@ -1,9 +1,8 @@
-## Hi there 👋
+
 
 ### Hi there 👋, my name is Youssef
 ####  🚀 Full Stack Web Developer | Specialized in Next.js, PostgreSQL, and Retool
-![ 🚀 Full Stack Web Developer | Specialized in Next.js, PostgreSQL, and Retool](https://scontent.fcai19-6.fna.fbcdn.net/v/t39.30808-6/480997835_2450784518595322_7335018874349182113_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeHY9EA-eKeFO4D9S_Izn9Qxs7XblyfK_IqztduXJ8r8ilMb0Mqlxe3vPa5yUqZlRVlKMY6wbDVphaW4ItAH2CP5&_nc_ohc=wHF9J6aqdQQQ7kNvgF8_I-M&_nc_oc=AdhikZ7jHmOmFMu49KLkWtA9Ph4wMG-gSmG4vuHxBKfYgW0IignoSAFMRaMtFyBEYus&_nc_zt=23&_nc_ht=scontent.fcai19-6.fna&_nc_gid=aARuo32Byg_lBCEU63ieFA&oh=00_AYEXnzmmRT0yWMCaDYMPFdaGSBar_cJY1dEQRqXUz_0xCw&oe=67DB2AE1)
-
+![ 🚀 Full Stack Web Developer | Specialized in Next.js, PostgreSQL, and Retool]<img src="https://scontent.fcai19-6.fna.fbcdn.net/v/t39.30808-6/480997835_2450784518595322_7335018874349182113_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeHY9EA-eKeFO4D9S_Izn9Qxs7XblyfK_IqztduXJ8r8ilMb0Mqlxe3vPa5yUqZlRVlKMY6wbDVphaW4ItAH2CP5&_nc_ohc=wHF9J6aqdQQQ7kNvgF8_I-M&_nc_oc=AdhikZ7jHmOmFMu49KLkWtA9Ph4wMG-gSmG4vuHxBKfYgW0IignoSAFMRaMtFyBEYus&_nc_zt=23&_nc_ht=scontent.fcai19-6.fna&_nc_gid=aARuo32Byg_lBCEU63ieFA&oh=00_AYEXnzmmRT0yWMCaDYMPFdaGSBar_cJY1dEQRqXUz_0xCw&oe=67DB2AE1" width="400" height="300" alt="🚀 Full Stack Web Developer | Specialized in Next.js, PostgreSQL, and Retool">
 I I'm a problem solver at heart, passionate about crafting efficient, scalable web applications. My work revolves around:
 
 🚀 Building modern UIs with Next.js, React, and Material-UI
