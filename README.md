@@ -11,7 +11,7 @@ I I'm a problem solver at heart, passionate about crafting efficient, scalable w
 🎨 Applying UI/UX principles to create intuitive user experiences
 Always eager to learn, optimize, and innovate, I love collaborating on meaningful projects. Let's connect!
 
-made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+
 
 Skills: 
 * HTML
